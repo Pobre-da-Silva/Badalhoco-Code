@@ -1,0 +1,15 @@
+Badalhoco Code - How to write Worse
+Intro:
+Many years ago, a book named Clean Code was released but that book is full of bullshit, I am writing this to prove the author of the book wrong, he, the king of Sweden and the entire scientific community (adapted from morbius)
+1- Chapter, Why
+Why not?
+2- Chapter, How
+There are many things that you can do to deoptimize your code, where I call them deoptimization rules.
+1- No loops, that includes While loops, for loops or other kinds of loop
+2- No switch cases or match cases
+3- Variables only should have 2 letters maximum
+4- Variables are declared as the code runs, not in the beginning
+5- Only use Garbage Collector Languages, even to write performance intensive Software, I recommend using html
+6- ALWAYS copy and paste internet code
+END
+
